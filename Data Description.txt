@@ -1,0 +1,14 @@
+Here[https://medium.com/@dorianlazar81/scraping-medium-with-python-beautiful-soup-3314f898bbf5] is a blog post that explains how the data was scraped.
+
+This dataset contains information about randomly chosen medium articles published in 2019 from these 7 publications:
+
+Towards Data Science
+UX Collective
+The Startup
+The Writing Cooperative
+Data Driven Investor
+Better Humans
+Better Marketing
+
+
+DOWNLOAD DATA FROM HERE->https://www.kaggle.com/dorianlazar/medium-articles-dataset
